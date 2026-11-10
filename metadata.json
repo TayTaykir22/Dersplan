@@ -1,0 +1,6 @@
+{
+  "name": "DersPlan — Akıllı Ders ve Yıllık Plan Takip",
+  "description": "Ortaokul öğretmenleri için gerçek zamanlı ders yakalama, otomatik eğitim haftası hesaplama, zil tablosu ve MEB yıllık plan (Sosyal Bilgiler, T.C. İnkılap Tarihi, Seçmeli Görgü Kuralları ve Nezaket) entegrasyonlu çevrimdışı çalışabilen takip uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
